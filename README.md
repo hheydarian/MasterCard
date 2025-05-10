@@ -2,6 +2,3 @@
 ![image](https://github.com/user-attachments/assets/386e6b8f-74d0-4271-a8b5-ee6b03b31ca2)
 
 
-
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/hheydarian/DotNetTheme)
